@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Unfit Vehicle Detector</string>
+    <string name="preview_area">Preview Area</string>
+    <string name="capture">Capture</string>
+</resources>

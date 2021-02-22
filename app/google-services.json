@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "814558099335",
+    "firebase_url": "https://safeindiahackathon-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "safeindiahackathon",
+    "storage_bucket": "safeindiahackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814558099335:android:128d039ea70ca99a6c4522",
+        "android_client_info": {
+          "package_name": "com.exvishwajit.unfitvdetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814558099335-mj8a2fgbtmehnb60pe4g87mj8jlcd0e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFEL1m5I6IKlLIP4kIU-8aJaiCkCeT4UE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814558099335-mj8a2fgbtmehnb60pe4g87mj8jlcd0e7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814558099335:android:269d46c39e61f70b6c4522",
+        "android_client_info": {
+          "package_name": "com.vishwajitCodeCult.UnfitVehicleDetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814558099335-mj8a2fgbtmehnb60pe4g87mj8jlcd0e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFEL1m5I6IKlLIP4kIU-8aJaiCkCeT4UE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814558099335-mj8a2fgbtmehnb60pe4g87mj8jlcd0e7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
